@@ -1,0 +1,51 @@
+body{
+    background-color:#efefef;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px 0px;
+    color: #000000;
+    letter-spacing: 0.06em;
+    font-size: 16px;
+    display: block;
+    margin: 8px;
+}
+.logo{
+    display:block; 
+    text-align: center;
+    align-content: center;
+}
+.logo #logo1{
+    width:100%;
+    margin:5px;
+    max-width:470px;
+}
+.logo #logo2{
+    width:100%;
+    margin:5px;
+    padding-bottom:2px;
+    max-width:36px;
+}
+
+.maindiv{
+    max-width:560px;
+    background-color:lightgray;
+    border-style:solid;
+    border-width:3px;
+    border-color:blue;
+    padding:20px;
+    border-radius:20px;
+}
+b{
+    font-size:1rem;
+    line-height:28px;
+}
+.box{
+    max-width: 400px;
+    text-align: left;
+    line-height: 22px;
+    display: block;
+}
+table{
+    padding: 1px;
+    border-spacing: 2px;
+    line-height: 20px;
+}
